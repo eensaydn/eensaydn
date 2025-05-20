@@ -9,7 +9,7 @@ RAG - LLM - AGENT
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [eensaydn@icloud.com](mailto:eensaydn@icloud.com)
 * 🧠  I'm learning Pytorch
-* 🤝  I'm open to collaborating on interesting ai or llm projects
+* 🤝  I'm open to collaborating on interesting ai or LLM projects
 * ⚡  Let's build a new ai world !
 
 ### Skills
