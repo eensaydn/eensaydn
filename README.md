@@ -1,5 +1,3 @@
-Hi ! My name is Enes Aydin
-==================================================================================================================================
 # 👋 Hi,
 **Generative AI Engineer & Solution Architect**  
 (AI Agents • RAG • LLM Fine-Tuning • Prompt Engineering)
