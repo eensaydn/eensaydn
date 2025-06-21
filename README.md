@@ -1,16 +1,65 @@
 Hi ! My name is Enes Aydin
 ==================================================================================================================================
+# 👋 Hi, I’m Kralım  
+**Generative AI Engineer & Solution Architect**  
+(AI Agents • RAG • LLM Fine-Tuning • Prompt Engineering)
 
-AI Engineer
------------
+---
 
-RAG - LLM - AGENT
+## About Me
 
-* 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [eensaydn@icloud.com](mailto:eensaydn@icloud.com)
-* 🧠  I'm learning Pytorch
-* 🤝  I'm open to collaborating on interesting ai or LLM projects
-* ⚡  Let's build a new ai world !
+I am passionate about building real-world AI solutions with generative models, large language models, and advanced NLP techniques. With 2+ years of professional experience, I specialize in Retrieval-Augmented Generation (RAG), custom AI agents, fine-tuning, and prompt engineering. I work extensively with Python frameworks such as LangChain, Hugging Face Transformers, TensorFlow, and PyTorch.
+
+Having lived in Australia for a year, I bring strong English skills and thrive in multicultural, collaborative teams. I care deeply about delivering high-quality, maintainable, and impactful code, and treat every collaboration as a long-term partnership.
+
+---
+
+## What I Do
+
+- Develop **Custom AI Agents & Chatbots** using LangChain, Groq, and OpenAI Function Calling  
+- Build **RAG pipelines** that ground LLMs in domain-specific data  
+- Perform **LLM Fine-Tuning & Training** (LoRA / QLoRA) on Hugging Face and AWS  
+- Design **Prompt Engineering** for optimized reasoning and tone  
+- Implement **Text-to-Text (T2T)** and **Speech-to-Text (S2T)** solutions with real-time streaming  
+- Deliver end-to-end **MLOps workflows** on AWS services (SageMaker, Lambda, Bedrock)  
+- Contribute to open-source AI projects and keep up with the latest AI trends  
+
+---
+
+## Technologies & Tools
+
+| Languages & Frameworks | AI & NLP | Cloud & DevOps | Other Tools          |
+|-----------------------|----------|----------------|---------------------|
+| Python                | LangChain | AWS (EC2, S3, Lambda, Bedrock, SageMaker) | Docker               |
+| TensorFlow            | Hugging Face Transformers | MLFlow         | Sklearn               |
+| PyTorch               | GPT       |               |                       |
+
+---
+
+## How I Work
+
+- Client satisfaction is my top priority — I don’t stop until you’re thrilled  
+- Clear roadmaps, transparent milestones, and frequent updates  
+- Value-first mindset: quality and fairness over quick profit  
+- Agile and adaptable to your feedback  
+- Every project is treated as a long-term partnership  
+
+---
+
+## Let’s Connect
+
+I’m always excited to collaborate on generative AI projects, NLP, and cloud-powered AI solutions.  
+Feel free to reach out — I usually reply on the same day!
+
+---
+
+*“Turning cutting-edge AI into practical, impactful applications.”*
+
+---
+
+<!-- Optionally add contact info or links here -->
+
+
 
 ### Skills
 
