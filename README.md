@@ -3,15 +3,6 @@
 (AI Agents • RAG • LLM Fine-Tuning • Prompt Engineering)
 
 ---
-
-## About Me
-
-I am passionate about building real-world AI solutions with generative models, large language models, and advanced NLP techniques. With 2+ years of professional experience, I specialize in Retrieval-Augmented Generation (RAG), custom AI agents, fine-tuning, and prompt engineering. I work extensively with Python frameworks such as LangChain, Hugging Face Transformers, TensorFlow, and PyTorch.
-
-Having lived in Australia for a year, I bring strong English skills and thrive in multicultural, collaborative teams. I care deeply about delivering high-quality, maintainable, and impactful code, and treat every collaboration as a long-term partnership.
-
----
-
 ## What I Do
 
 - Develop **Custom AI Agents & Chatbots** using LangChain, Groq, and OpenAI Function Calling  
